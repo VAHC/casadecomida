@@ -41,12 +41,13 @@ footer{
     width: 100%;
 
     text-align: center;
-    position: fixed;
+    
     left: 0;
     bottom: 0;
     padding: 20px;
     height: 50px;
     margin-top: 0;
+    position: absolute;
 }
 
 /*--- redes sociales ---*/
